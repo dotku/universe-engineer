@@ -1,6 +1,6 @@
 # Unverse Engineering
 
-## Gold
+## Goal
 Help everyone to get better life regardless the race, belives, gender, age ... etc.
 
 ## Action
